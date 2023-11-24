@@ -8,7 +8,7 @@ Step by step guide to becoming a modern backend developer
 
 > The Internet is a global network of computers connected to each other which communicate through a standardized set of protocols.
 
-- [How does the internet work?] (https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm)
+- [How does the internet work?](https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm)
 
 ### What is HTTP?
 
